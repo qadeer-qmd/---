@@ -1,2 +1,1 @@
-# ---
-A Multiple Whatsapp Bot v1
+barnd bot
